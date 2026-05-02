@@ -1,6 +1,7 @@
 {
   "name": "deep-web-solutions/wp-framework-utilities",
   "type": "library",
+  "abandoned": "ahegyes/wp-framework-utilities",
 
   "description": "A set of related utility classes to kick start WordPress development.",
   "keywords": ["wordpress", "framework", "Deep Web Solutions", "utilities"],
